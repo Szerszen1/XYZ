@@ -15,9 +15,8 @@ body
 #top_banner
     {
         background: url('banner.jpg') no-repeat;
-        width: 1000px;
-        height: 203px;
-        float: left;
+        width: 500px;
+        height: 480px;
     }
 
 #top_menu

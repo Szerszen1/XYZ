@@ -1,6 +1,6 @@
 body
     {
-        background: url('wallpaper.jpg') no-repeat;
+        background: url('wallpaper.jpg');
         color: #8b8b8b;
         font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
         margin: 0px;
@@ -77,7 +77,6 @@ a:hover
 #content1
     {
         width: 199px;
-        border-right: 1px solid #635e53;
         min-height: 400px;
         position: relative;
         top: 50px;
@@ -110,7 +109,6 @@ a:hover
 #content3
     {
         width: 199px;
-        border-left: 1px solid #635e53;
         min-height: 400px;
         position: relative;
         top: 50px;

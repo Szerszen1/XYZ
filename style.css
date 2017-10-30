@@ -163,3 +163,25 @@ a:hover
    border-top-color: #1b435e;
    background: #1b435e;
    }
+.first_table th
+    {
+                
+	background-color: #65a9d7;            
+	font-weight: normal;        
+	text-align: center;
+	width: 140px;
+	height: 38px;
+	color: white;
+	border: 1px solid #dddddd;
+    }
+            
+            
+.first_table td
+    {
+	text-align: center;           
+	width: 140px;
+	height: 38px;
+	border: 1px solid #dddddd;
+    }	
+            
+          
